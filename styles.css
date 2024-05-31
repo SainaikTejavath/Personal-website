@@ -1,0 +1,254 @@
+.bgimage {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1715947415/photo-1518655048521-f130df041f66_eqzdtm.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  margin: 10px;
+  border-radius: 10px;
+  object-fit: cover;
+  padding-bottom: 7%;
+}
+span {
+  background-color: coral;
+}
+.imagebg {
+  width: 100%;
+  height: 100%;
+  border-radius: 2px;
+  margin-top: 25px;
+}
+
+.bgheading {
+  font-size: 45px;
+  padding-bottom: 10px;
+  margin-top: 30px;
+  color: rgb(43, 41, 41);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.bgpara {
+  color: rgb(2, 2, 2);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.bgbutton {
+  margin-top: 20px;
+  background-color: aquamarine;
+  height: 35px;
+  border-radius: 20px;
+}
+.bgbutton2 {
+  margin-top: 20px;
+  background-color: coral;
+  height: 35px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+
+.heading1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.paragraph1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.section2heading1 {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: coral;
+}
+.section2heading2 {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: coral;
+}
+.section2heading3 {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: coral;
+}
+.section2heading4 {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: coral;
+}
+.sectionheading3 {
+  font-size: 15px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: coral;
+  font-weight: bold;
+}
+.sectionheading2 {
+  font-size: 35px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.section3card {
+  box-shadow: 3px 3px 3px 3px;
+  max-width: 200px;
+  height: 240px;
+  margin: auto;
+  font-family: arial;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-top-right-radius: 30%;
+}
+.cardheading {
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+.cardpara {
+  font-size: medium;
+  margin-left: 10px;
+  font-size: 15px;
+}
+.cardpara2 {
+  font-size: 15px;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.cardpara3 {
+  font-size: 13px;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cardpara4 {
+  font-size: 15px;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.icons {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.sectionbutton3 {
+  background-color: transparent;
+  width: 100px;
+  height: 35px;
+  border-radius: 15px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.bg-image2 {
+  background-image: url("https://res.cloudinary.com/drccpczz0/image/upload/v1715665690/does-anybody-have-a-high-res-version-of-the-windows-7-v0-92mjxhums8yb1_xnwqx8.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position-x: center;
+  margin: 10px;
+  border-radius: 10px;
+  padding-bottom: 20%;
+}
+.sectionbutton4 {
+  background-color: transparent;
+  width: 50%;
+  height: 40px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.sectionheading4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.sectionparagraph4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.blog-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px auto;
+  width: 80%;
+}
+
+.blog-card {
+  margin: 10px;
+  width: calc(33% - 20px);
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  height: 100%;
+}
+
+.blog-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card-content h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.card-content p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+.blogheading {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.blogparagraph {
+  margin: 5px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.Mydesignhead {
+  margin: 0px;
+  color: coral;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.Mydesignpara {
+  font-family: cursive;
+  margin: 0px;
+}
+
+.bookheading {
+  height: 100%;
+  color: white;
+  margin-bottom: 20px;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.footer {
+  width: 100%;
+  margin: 20px;
+  border-radius: 10px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+.footerlogo {
+  width: 100%;
+  height: 150px;
+  border-radius: 20px;
+}
+
+.cusimage {
+  height: 100%;
+  padding: 10px;
+  border-radius: 100%;
+  object-fit: fill;
+}
